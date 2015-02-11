@@ -1,4 +1,4 @@
-Resources for the OpenTechSchool Berlin Co-Learning Group "R & Statistical Data Analysis"
+# Resources for the OpenTechSchool Berlin Co-Learning Group "R & Statistical Data Analysis"
 
 ## Downloading and Installing R 
 Select your location at http://cran.r-project.org/mirrors.html and afterwards download the right installer file for your operating system. Then run the installer you downloaded.
