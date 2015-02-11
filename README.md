@@ -1,7 +1,7 @@
 # Resources for the OpenTechSchool Berlin Co-Learning Group "R & Statistical Data Analysis"
 
 ## Downloading and Installing R 
-Select your location at http://cran.r-project.org/mirrors.html and afterwards download the right installer file for your operating system. Then run the installer you downloaded.
+Choose & download the right installer for your computer from http://mirrors.softliste.de/cran/ . Then run the installer you downloaded.
  
 ## Graphical IDE for R
 The most commonly used one is [RStudio](http://www.rstudio.com/)
