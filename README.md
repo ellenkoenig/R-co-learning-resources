@@ -7,6 +7,7 @@ Choose & download the right installer for your computer from http://mirrors.soft
 The most commonly used one is [RStudio](http://www.rstudio.com/)
  
 ## R Tutorials & Courses
+  * Swirl: Interactive tutorial in R http://swirlstats.com/
   * A list of beginners tutorials for programmers and non-programmers: http://heather.cs.ucdavis.edu/~matloff/r.html
   * More tutorials, including targeted one for different subject areas (economics, psychology, ecology): http://pairach.com/2012/06/17/r_tutorials_non-uni/
   * Coursera R Programming Course: https://www.coursera.org/course/rprog
