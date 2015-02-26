@@ -20,6 +20,7 @@ The most commonly used one is [RStudio](http://www.rstudio.com/)
  * https://www.datacamp.com/courses/data-analysis-and-statistical-inference-mine-cetinkaya-rundel
  
 ## Statistics Online Courses
-  * Exploratory Data Analysis: https://www.coursera.org/course/exdata
-  * Statistical Interference: https://www.coursera.org/course/statinference
-  * Regression Models: https://www.coursera.org/course/regmods
+  * Exploratory Data Analysis (4 weeks): https://www.coursera.org/course/exdata
+  * Statistical Interference (4 weeks): https://www.coursera.org/course/statinference
+  * Regression Models(4 weeks): https://www.coursera.org/course/regmods
+  * In-depth semester-long course on statistics with R: https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/info
