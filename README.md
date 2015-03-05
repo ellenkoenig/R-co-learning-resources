@@ -24,3 +24,4 @@ The most commonly used one is [RStudio](http://www.rstudio.com/)
   * Statistical Interference (4 weeks): https://www.coursera.org/course/statinference
   * Regression Models(4 weeks): https://www.coursera.org/course/regmods
   * In-depth semester-long course on statistics with R: https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/info
+  * The Analytics Edge (12 weeks): https://www.edx.org/course/analytics-edge-mitx-15-071x-0#.VPh13s3iIQE
