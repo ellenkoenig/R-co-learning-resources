@@ -12,6 +12,7 @@ The most commonly used one is [RStudio](http://www.rstudio.com/)
   * More tutorials, including targeted one for different subject areas (economics, psychology, ecology): http://pairach.com/2012/06/17/r_tutorials_non-uni/
   * Coursera R Programming Course: https://www.coursera.org/course/rprog
   * The Analytics Edge (12 weeks): https://www.edx.org/course/analytics-edge-mitx-15-071x-0#.VPh13s3iIQE
+  * Doing the Kaggle Machine Learning Introductory Challenge "Titanic" with R: http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r
  
 ## Exercises to build your skills
  * http://adv-r.had.co.nz/
