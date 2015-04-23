@@ -24,3 +24,6 @@ The most commonly used one is [RStudio](http://www.rstudio.com/)
   * Statistical Interference (4 weeks): https://www.coursera.org/course/statinference
   * Regression Models(4 weeks): https://www.coursera.org/course/regmods
   * In-depth semester-long course on statistics with R: https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/info
+
+## Public datasets to play with
+ * List of "Awesome Public Datasets": https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst
