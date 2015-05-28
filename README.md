@@ -29,3 +29,4 @@ The most commonly used one is [RStudio](http://www.rstudio.com/)
 
 ## Public datasets to play with
  * List of "Awesome Public Datasets": https://github.com/caesar0301/awesome-public-datasets/blob/master/README.rst
+ * rOpenGov: R interfaces to several major (mostly European) OpenGovernment data sources: http://ropengov.github.io/projects/
